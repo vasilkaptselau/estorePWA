@@ -1,4 +1,4 @@
-# SuperStore
+# SuperStore by using Angular6 and AngularPWA
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
